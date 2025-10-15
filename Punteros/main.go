@@ -10,5 +10,5 @@ func main() {
 }
 
 func modificarArrays(array *[5]int) {
-	(*array)[0] = 100
+	(*array)[0] = 42
 }
